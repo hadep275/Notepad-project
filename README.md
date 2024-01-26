@@ -4,6 +4,10 @@
 
 This is a simple Notepad web application that allows users to create and edit text notes in a web browser. The application provides a basic user interface with essential features such as a resizable window, minimize, and close buttons. It is built using HTML, CSS, and does not require any backend server.
 
+[Uploading screen-capture (1).webm…]()
+
+
+
 ## Features
 
 - **User-Friendly Interface:** The Notepad application provides a clean and intuitive user interface, resembling the familiar look of a desktop notepad.
