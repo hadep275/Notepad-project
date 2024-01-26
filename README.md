@@ -4,8 +4,13 @@
 
 This is a simple Notepad web application that allows users to create and edit text notes in a web browser. The application provides a basic user interface with essential features such as a resizable window, minimize, and close buttons. It is built using HTML, CSS, and does not require any backend server.
 
-[screen-capture (1).webm](https://github.com/hadep275/Notepad-project/assets/65734173/68c9ac4f-47c5-40fb-82a0-fcc47d585f14)
+[Notepad Demo Video](https://github.com/hadep275/Notepad-project/assets/65734173/68c9ac4f-47c5-40fb-82a0-fcc47d585f14)
 
+## Deployment
+
+The Notepad web application is deployed and accessible online. You can try it out by visiting the following link:
+
+[**Notepad Web App**](https://hadep275.github.io/Notepad-project/)
 
 ## Features
 
@@ -17,11 +22,6 @@ This is a simple Notepad web application that allows users to create and edit te
 
 - **Text Editing:** The core functionality of the application is text editing. Users can type and edit text in the provided textarea.
 
-## Deployment
-
-The Notepad web application is deployed and accessible online. You can try it out by visiting the following link:
-
-[**Notepad Web App**](https://hadep275.github.io/Notepad-project/)
 
 ## How to Use
 
