@@ -18,7 +18,7 @@ This is a simple Notepad web application that allows users to create and edit te
 
 The Notepad web application is deployed and accessible online. You can try it out by visiting the following link:
 
-[**Notepad Web App**](#deployed-link)
+[**Notepad Web App**](https://hadep275.github.io/Notepad-project/)
 
 ## How to Use
 
